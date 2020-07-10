@@ -1,7 +1,7 @@
 ---
 title: Pablo Innocenti
 role: Software Architect
-avatar_filename: download.png
+avatar_filename: avatar.png
 organizations: []
 superuser: true
 authors:
